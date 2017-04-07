@@ -1,0 +1,515 @@
+{
+    "type": "FeatureCollection",
+    
+    "features": [
+                 
+                 {
+                 "type": "Feature",
+                 "id": 0,
+                 "properties": {
+                 "NAME": "Bus Stop 0",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.981295, 40.768845]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 1,
+                 "properties": {
+                 "NAME": "Bus Stop 1",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.980716, 40.769576]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 2,
+                 "properties": {
+                 "NAME": "Bus Stop 2",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.980094, 40.770421]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 3,
+                 "properties": {
+                 "NAME": "Bus Stop 3",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.979010, 40.771981]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 4,
+                 "properties": {
+                 "NAME": "Bus Stop 4",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.977572, 40.773939]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 5,
+                 "properties": {
+                 "NAME": "Bus Stop 5",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.976188, 40.775865]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 6,
+                 "properties": {
+                 "NAME": "Bus Stop 6",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.975191, 40.777189]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 7,
+                 "properties": {
+                 "NAME": "Bus Stop 7",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.970180, 40.784127]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 8,
+                 "properties": {
+                 "NAME": "Bus Stop 8",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.967734, 40.787441]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 9,
+                 "properties": {
+                 "NAME": "Bus Stop 9",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.965953, 40.789903]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 10,
+                 "properties": {
+                 "NAME": "Bus Stop 10",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.964479, 40.791921]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 11,
+                 "properties": {
+                 "NAME": "Bus Stop 11",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.962091, 40.795191]
+                 }
+                 },
+                 
+                 
+                 {
+                 "type": "Feature",
+                 "id": 12,
+                 "properties": {
+                 "NAME": "Bus Stop 11",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.962091, 40.795191]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 12,
+                 "properties": {
+                 "NAME": "Bus Stop 12",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.960374, 40.797562]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 15,
+                 "properties": {
+                 "NAME": "Bus Stop 15",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.958698, 40.799855]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 16,
+                 "properties": {
+                 "NAME": "Bus Stop 16",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.953540, 40.798667]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 17,
+                 "properties": {
+                 "NAME": "Bus Stop 17",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.950847, 40.794646]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 18,
+                 "properties": {
+                 "NAME": "Bus Stop 18",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.954312, 40.789813]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 19,
+                 "properties": {
+                 "NAME": "Bus Stop 19",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.956522, 40.786686]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 20,
+                 "properties": {
+                 "NAME": "Bus Stop 20",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.958958, 40.783469]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 21,
+                 "properties": {
+                 "NAME": "Bus Stop 21",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.962166, 40.779180]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 22,
+                 "properties": {
+                 "NAME": "Bus Stop 22",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.964429, 40.775987]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 23,
+                 "properties": {
+                 "NAME": "Bus Stop 23",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.966210, 40.773492]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 24,
+                 "properties": {
+                 "NAME": "Bus Stop 24",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.969064, 40.769706]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 25,
+                 "properties": {
+                 "NAME": "Bus Stop 25",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.971854, 40.765846]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 26,
+                 "properties": {
+                 "NAME": "Bus Stop 26",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.974686, 40.765050]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 27,
+                 "properties": {
+                 "NAME": "Bus Stop 27",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.976263, 40.765741]
+                 }
+                 },
+                 
+                 {
+                 "type": "Feature",
+                 "id": 28,
+                 "properties": {
+                 "NAME": "Bus Stop 28",
+                 "TEL": " - ",
+                 "URL": " - ",
+                 "ADDRESS1": "-",
+                 "ADDRES2": null,
+                 "CITY": "New York",
+                 "ZIP": 10036.0
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [-73.981006, 40.767821]
+                 }
+                 }
+                 
+                 
+                 
+                 
+                 ]
+}

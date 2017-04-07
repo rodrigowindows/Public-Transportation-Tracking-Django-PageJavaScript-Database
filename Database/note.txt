@@ -1,0 +1,3 @@
+CREATE EXTENSION postgis;
+ALTER TABLE geoposition ADD COLUMN "position" GEOMETRY(Point, 26910);
+ALTER TABLE busstop ADD COLUMN "position"  GEOMETRY(Point, 26910);
